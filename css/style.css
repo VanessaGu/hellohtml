@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  background-color: grey;
+}
+
+#informacion {
+  text-align: center;
+}
+
+.blue-font{color: white;}
+
+.red{color: red;}
+
+.green{color: rgba(0,255,0,.7);
+font-weight: 500;
+}
+
+.font-xs{font-size: 8px}
+
+.font-lg{font-size: 20px}
+
+.bg-orange{background-color: orange;
+  font-weight: bold;
+}
+
+.bg-orange-50{background-color: rgba(255,180,0,.5)}
+
+.border{
+  border: 5px solid yellow;
+/*  border-width: 100px 100px 100px 100px */
+
+}
+table td{border:1px solid black}
+
+table td#raton{border:1px solid green}
