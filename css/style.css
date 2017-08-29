@@ -7,6 +7,14 @@ body {
   text-align: center;
 }
 
+#resumen{
+  text-align:justify;
+}
+
+.margin{
+  margin-right: 100px
+}
+
 .blue-font{color: white;}
 
 .red{color: red;}
@@ -19,15 +27,9 @@ font-weight: 500;
 
 .font-lg{font-size: 20px}
 
-.bg-orange{background-color: orange;
-  font-weight: bold;
-}
-
-.bg-orange-50{background-color: rgba(255,180,0,.5)}
 
 .border{
-  border: 5px solid yellow;
-/*  border-width: 100px 100px 100px 100px */
+  border: 30px solid #EFC050;
 
 }
 table td{border:1px solid black}
