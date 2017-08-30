@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  background-color: grey;
+  background-color: white;
 }
 
 #informacion {
@@ -27,11 +27,29 @@ font-weight: 500;
 
 .font-lg{font-size: 20px}
 
+.top-border{
+  border-top: 5px solid black;
+  margin-left: 100px;
+  margin-right: 100px;
+}
 
-.border{
+.thin-top-border{
+  border-style: double;
+  border-bottom-color: black;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.yellow-border{
   border: 30px solid #EFC050;
+  margin-left: 100px;
+  margin-right: 100px;
 
 }
-table td{border:1px solid black}
+table td{border:0px solid black}
 
 table td#raton{border:1px solid green}
